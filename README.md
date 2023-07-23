@@ -1,4 +1,4 @@
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Developer/Problem Solver)`**
 
 ### 🧰 Languages and Tools
 
