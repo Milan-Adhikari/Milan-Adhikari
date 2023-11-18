@@ -1,4 +1,4 @@
-**`Developer/Problem Solver`**
+**`Researcher/Problem Solver/Developer`**
 
 ### 🧰 Languages and Tools
 
