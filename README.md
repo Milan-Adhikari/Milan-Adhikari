@@ -4,8 +4,7 @@
 ### Languages-Frameworks-Tools  
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,django,flask,visualstudio,anaconda" /> <br/>
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,ts,vite,html,css" /> <br/>
-    <img src="https://skillicons.dev/icons?i=cloudflare,docker,gcp,c,cpp,linux,figma,github" /> <br/>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,django,flask,visualstudio,anaconda,js,react,tailwind,ts" /> <br/>
+    <img src="https://skillicons.dev/icons?i=vite,html,css,cloudflare,docker,gcp,c,cpp,linux,figma,github" /> <br/>
 </div>
 <br />
