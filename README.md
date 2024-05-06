@@ -1,4 +1,4 @@
-<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217" alt="walking-code" align="left" height="50" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
+<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217" alt="walking-code" align="left" height="100" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
 
 
 
