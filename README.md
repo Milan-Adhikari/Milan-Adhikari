@@ -1,6 +1,6 @@
-**`Engineer/Researcher/Problem Solver/Developer`**  <br/>
+**Engineer/Researcher/Problem Solver/Developer**  <br/>
 <h3 align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=30&duration=4000&lines=Engineer;+Researcher;+Problem+Solver;+Developer;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=30&duration=4000&lines=Engineer+Researcher;+Problem+Solver+Developer;" />
 </h3>
 <div align='center'>
   <img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/9728a7de-a06a-446e-b7f3-9cbff447060e" alt="flying-astronaut" align="left" height="160" autoplay/> 
