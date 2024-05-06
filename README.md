@@ -1,4 +1,5 @@
-**`Engineer/Researcher/Problem Solver/Developer`** ![walking-code](https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217)
+**`Engineer/Researcher/Problem Solver/Developer`** <img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217" alt="walking-code" align="right" width="200"/>
+
 
 
 ### 🧰 Languages and Tools
