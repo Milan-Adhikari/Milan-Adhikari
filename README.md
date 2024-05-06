@@ -11,8 +11,12 @@
 <h2 align="center">Statistics</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats-one-xi-74.vercel.app/api?username=milan-adhikari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 align="center" src="https://github-readme-stats-one-xi-74.vercel.app/api/top-langs/?username=milan-adhikari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+  <a href="https://github.com/milan-adhikari/github-readme-stats">
+    <img width=390 src="https://github-readme-stats-one-xi-74.vercel.app/api?username=milan-adhikari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  </a>
+  <a href="https://github.com/milan-adhikari/github-readme-stats">
+    <img width=390 align="center" src="https://github-readme-stats-one-xi-74.vercel.app/api/top-langs/?username=milan-adhikari&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&count_weight=0.5&exclude_repo=github-readme-stats" alt="top languages" />
+  </a>
 </div>
 
 <br/><br/>
