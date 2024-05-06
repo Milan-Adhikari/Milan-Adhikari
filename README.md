@@ -11,7 +11,7 @@
 <h2 align="center">Statistics</h2>
 <br>
 
-<div align='center>
+<div align='center'>
   <a href="https://github.com/milan-adhikari/github-readme-stats">
     <img height=200 src="https://github-readme-stats-one-xi-74.vercel.app/api?username=milan-adhikari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   </a>
