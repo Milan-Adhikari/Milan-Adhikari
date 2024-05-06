@@ -1,4 +1,4 @@
-<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/da0318bb-56d2-467e-a3d6-264445b55705" alt="flying-astronaut" align="left" height="150" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
+<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/9728a7de-a06a-446e-b7f3-9cbff447060e" alt="flying-astronaut" align="left" height="150" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
 
 
 ### 🧰 Languages and Tools
