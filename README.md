@@ -3,7 +3,7 @@
 <div align="center">
   <h3> Languages-Frameworks-Tools </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,django,flask,visualstudio,anaconda,js,react,tailwind,ts" /> <br/>
+    <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,django,flask,vscode,anaconda,js,react,tailwind,ts" /> <br/>
     <img src="https://skillicons.dev/icons?i=vite,html,css,cloudflare,docker,gcp,c,cpp,linux,figma,github" /> <br/>
 </div>
 <br />
