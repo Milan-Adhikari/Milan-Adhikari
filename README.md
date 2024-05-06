@@ -1,6 +1,6 @@
 **`Engineer/Researcher/Problem Solver/Developer`**  <br/>
 <div align='center'>
-  <img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/9728a7de-a06a-446e-b7f3-9cbff447060e" alt="flying-astronaut" align="left" height="150" autoplay/> 
+  <img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/9728a7de-a06a-446e-b7f3-9cbff447060e" alt="flying-astronaut" align="left" height="180" autoplay/> 
 </div>
 
 <div align="center">
