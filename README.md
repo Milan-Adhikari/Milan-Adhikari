@@ -1,6 +1,4 @@
-<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/da0318bb-56d2-467e-a3d6-264445b55705" alt="walking-code" align="left" height="150" autoplay/> 
-<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217" alt="walking-code" align="left" height="150" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
-
+<img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/da0318bb-56d2-467e-a3d6-264445b55705" alt="flying-astronaut" align="left" height="150" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
 
 
 ### 🧰 Languages and Tools
