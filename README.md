@@ -1,8 +1,12 @@
 <img src="https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/9728a7de-a06a-446e-b7f3-9cbff447060e" alt="flying-astronaut" align="left" height="150" autoplay/> **`Engineer/Researcher/Problem Solver/Developer`** 
 
 
-### Languages and Tools
-
+### Languages-Frameworks-Tools  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,nidejs,react" /> <br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,nidejs,react" /> <br>
+</div>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
