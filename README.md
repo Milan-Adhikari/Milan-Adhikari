@@ -2,10 +2,6 @@
 
 ### 🧰 Languages and Tools
 
-
-https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/010851b4-a47d-4e58-a1c7-b0865c0b8afd
-
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
