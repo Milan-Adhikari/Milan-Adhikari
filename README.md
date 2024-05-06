@@ -1,4 +1,5 @@
-**`Engineer/Researcher/Problem Solver/Developer`** <div align='right' class="tenor-gif-embed" data-postid="11570098" data-share-method="host" data-aspect-ratio="0.639535" data-width="100%"><a href="https://tenor.com/view/walking-code-computer-gif-11570098">Walking Code GIF</a>from <a href="https://tenor.com/search/walking-gifs">Walking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+**`Engineer/Researcher/Problem Solver/Developer`** ![walking-code](https://github.com/Milan-Adhikari/Milan-Adhikari/assets/84562846/e1fabf3d-12c8-4be9-9546-72330b604217)
+
 
 ### 🧰 Languages and Tools
 
