@@ -14,7 +14,7 @@
 </div>
 <br />
 
-<h2 align="center">Statistics</h2>
+<!-- <h2 align="center">Statistics</h2> 
 <br>
 
 <div align='center'>
@@ -26,4 +26,4 @@
   </a>
 </div>
 
-<br/><br/>
+<br/><br/> -->
